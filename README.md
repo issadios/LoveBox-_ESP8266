@@ -160,27 +160,11 @@ El diseño está pensado para:
 
 ---
 
-## 📁 Estructura del repositorio
-
-```
-LoveBox-Tamagotchi/
-├── Filmware_tamagotchi_LoveBox_v2.ino   # Código principal
-├── README.md                             # Este archivo
-├── carcasa/
-│   ├── cuerpo_principal.stl
-│   └── tapa_frontal.stl
-└── imagenes/
-    └── preview.jpg
-```
-
----
 
 ## 🔒 Seguridad
 
-Antes de subir el proyecto a GitHub, asegúrate de que el archivo `.ino` **no contenga** tu token de Telegram ni tu contraseña de WiFi. Puedes crear un archivo `credentials.h` separado y añadirlo al `.gitignore`:
-
 ```cpp
-// credentials.h  (NO subir a git)
+// credentials.h  
 #define WIFI_SSID     "tu_red"
 #define WIFI_PASSWORD "tu_contraseña"
 #define BOT_TOKEN     "tu_token"
@@ -204,4 +188,4 @@ Este proyecto se distribuye bajo la licencia **MIT**. Puedes usarlo, modificarlo
 
 ---
 
-*Hecho con ❤️ en Tuxtla Gutiérrez, Chiapas — IssaTech 3D*
+*Hecho con  en Tuxtla Gutiérrez, Chiapas — IssaTech 3D*
