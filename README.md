@@ -184,7 +184,7 @@ El diseño está pensado para:
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo la licencia **MIT**. Puedes usarlo, modificarlo y compartirlo libremente dando crédito al autor original.
+Este proyecto se distribuye bajo la licencia **Opensource**. Puedes usarlo, modificarlo y compartirlo libremente dando crédito al autor original.
 
 ---
 
